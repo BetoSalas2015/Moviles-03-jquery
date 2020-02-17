@@ -1,0 +1,3 @@
+function slideUp() {
+     $("#divMsg").slideUp();
+}
